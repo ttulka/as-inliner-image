@@ -1,0 +1,27 @@
+{
+  "name": "as-inliner-image",
+  "version": "0.0.1",
+  "description": "Inlines images into your AssemblyScript.",
+  "keywords": [
+    "assemblyscript",
+    "transform",
+    "inline",
+    "image",
+    "rgba",
+    "png"
+  ],
+  "author": "Tomas Tulka (ttulka)",
+  "types": "lib.ts",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "assemblyscript": "*"
+  },
+  "dependencies": {
+    "pngjs": "^6.0.0",
+    "visitor-as": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.6.1"
+  }
+}

@@ -7,7 +7,7 @@ Based on https://github.com/surma/as-inliner
 ## Install
 
 ```sh
-npm install as-inliner-image -D
+npm i as-inliner-image -D
 ```
 
 ## Use
@@ -42,6 +42,12 @@ Or extend the `asconfig.json` here:
   "extend": "as-inliner-image/asconfig.json"
 }
 ```
+
+## Limitations
+
+Currently supported image formats:
+
+- PNG
 
 ## Licence
 

@@ -11,6 +11,13 @@
     "png"
   ],
   "author": "Tomas Tulka (ttulka)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttulka/as-inliner-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ttulka/as-inliner-image/issues"
+  },
   "types": "lib.ts",
   "main": "index.js",
   "license": "MIT",
